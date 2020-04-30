@@ -1,0 +1,2 @@
+# Bloggy
+Personal Django Blog
